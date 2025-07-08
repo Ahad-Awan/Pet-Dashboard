@@ -22,7 +22,7 @@ const links = [
   { name: "DNA", path: "/dna", icon: <FaDna /> },
   { name: "Care", path: "/care", icon: <FaHeartbeat /> },
   { name: "Orders", path: "/orders", icon: <FaShoppingBag /> },
-  { name: "Referrals", path: "/analysis", icon: <FaUserFriends /> },
+  { name: "Referrals", path: "/referrals", icon: <FaUserFriends /> },
   { name: "Settings", path: "/settings", icon: <FaCog /> },
   { name: "Support & Help", path: "/support&help", icon: <FaQuestionCircle /> },
   { name: "Log Out", path: "/logout", icon: <FaSignOutAlt /> },
